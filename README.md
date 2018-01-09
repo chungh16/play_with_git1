@@ -1,5 +1,8 @@
-# play_with_git1
+#play_with_git1
 enjoy the vc workflow
 
 Hello World!
 
+
+:q
+h
